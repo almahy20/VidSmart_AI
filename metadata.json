@@ -1,0 +1,5 @@
+{
+  "name": "VidSmart AI - Smart Video Manager",
+  "description": "An intelligent video management application using React and Gemini AI to analyze, categorize, and summarize video content automatically.",
+  "requestFramePermissions": []
+}

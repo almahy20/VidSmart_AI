@@ -1,0 +1,9 @@
+/* 
+  هذا الملف مطلوب لعملية البناء (Build Process) لتجنب أخطاء 404.
+  التنسيقات الأساسية تأتي من Tailwind CDN في ملف index.html
+*/
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
